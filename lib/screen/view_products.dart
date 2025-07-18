@@ -55,7 +55,7 @@ class _ViewProductsState extends State<ViewProducts> {
       body: ListView(
         children: [
           SizedBox(
-            height: 200,
+            height: 250,
             child: Carousel(
               autoplay: false,
               showIndicator: false,
