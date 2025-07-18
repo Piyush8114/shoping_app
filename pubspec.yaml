@@ -39,6 +39,8 @@ dependencies:
   connectivity_plus:
   fluttertoast:
   shared_preferences:
+  lecle_flutter_carousel_pro:
+  razorpay_flutter:
 
 dev_dependencies:
   flutter_test:
